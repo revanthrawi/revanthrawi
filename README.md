@@ -1,10 +1,8 @@
-### **Hi!👋**
-#### ***I'm Revanth!***
-![I'm Revanth!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### **Revanth Rawi**
 
-**I'm interested in learning and designing and exploring new stuff! And I really love to play and learn with programming languages!**
+I am Revanth! I'm interested in learning,designing and exploring new stuff! And I practice and do content on C and Python! 
 
-** Skills : C / JAVA / HTML / CSS**
+Skills: C / JAVA / PYTHON
 
 - 🔭 I’m currently working on my bachelor's degree 
 - 🌱 I’m currently learning multiple stuff! 
