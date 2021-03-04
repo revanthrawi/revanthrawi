@@ -6,9 +6,8 @@ I'm Revanth and I'm 18! I'm interested in designing and development! I mostly pr
 - 🔭 I’m currently working on my bachelor's degree 
 - 🌱 I’m currently learning multiple stuff! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthrawi)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=revanthrawi&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthrawi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
